@@ -1,4 +1,4 @@
-# LBR-Stack
+# 🚀 LBR-Stack
 The LBR-Stack provides community contributed extensions to KUKA's Fast Robot Interface (FRI) for accelerated research and deployment.
 
 4 core packages are provided:
@@ -6,18 +6,16 @@ The LBR-Stack provides community contributed extensions to KUKA's Fast Robot Int
 - [fri](https://github.com/lbr-stack/fri): CMake support for KUKA's FRI.
 - [pyFRI](https://github.com/lbr-stack/pyFRI): Python bindings for KUKA's FRI for rapid prototyping!
 - [fri_vendor](https://github.com/lbr-stack/fri_vendor): Integration of `fri` into the ROS 2 build system.
-- [lbr_fri_ros2_stack](lbr_fri_ros2_stack): ROS 2 support for the KUKA LBRs: `ros2_control`, `MoveIt 2` & `Gazebo`, demos and much more!
+- [lbr_fri_ros2_stack](lbr_fri_ros2_stack): ROS 2 support for the KUKA LBRs: `ros2_control`, `MoveIt 2`, `Gazebo`, demos and much more!
 
-The current core contributors are
+The current core contributors are:
 
-
-<td align="center" valign="top" width="14.28%"><a href="https://github.com/cmower"><img src="https://avatars.githubusercontent.com/u/8171456?v=4" width="100px;" alt="Christopher Mower"/> Christopher Mower <br/>
-
-<td align="center" valign="top" width="14.28%"><a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/26366414?v=4" width="100px;" alt="Martin Huber"/> Martin Huber <br/>
-
-<td align="center" valign="top" width="14.28%"><a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/1614505?v=4" width="100px;" alt="Tom Vercauteren"/> Tom Vercauteren <br/>
-
-<td align="center" valign="top" width="14.28%"><a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/1964044?v=4" width="100px;" alt="Christos Bergeles"/> Christos Bergeles <br/>
+| Name | GitHub | Contributions |
+| ---- | ------ | ------------- |
+| Christopher Mower | <a href="https://github.com/cmower"><img src="https://avatars.githubusercontent.com/u/8171456?v=4" width="100px;" alt="Christopher Mower"/> | - Main developer of [pyFRI](https://github.com/lbr-stack/pyFRI) </br> - Robotic control theory </br> - Demo implementations |
+| Martin Huber | <a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/26366414?v=4" width="100px;" alt="Martin Huber"/> | - Main developer of [lbr_fri_ros2_stack](lbr_fri_ros2_stack) </br> - Build infrastructure |
+| Tom Vercauteren | <a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/1614505?v=4" width="100px;" alt="Tom Vercauteren"/> | - Funding  </br> - Advisor for software architecture </br> - Integration into vision  |
+| Christos Bergeles | <a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/1964044?v=4" width="100px;" alt="Christos Bergeles"/> | - Funding </br> - Advisor for software architecture </br> - Drafting of robotic control |
 
 We hope to reach more open source contributors in the future!
 
