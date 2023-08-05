@@ -12,10 +12,10 @@ The current core contributors are:
 
 | Name | GitHub | Contributions |
 | ---- | ------ | ------------- |
-| Christopher Mower | <a href="https://github.com/cmower"><img src="https://avatars.githubusercontent.com/u/8171456?v=4" width="100px;" alt="Christopher Mower"/> | - Main developer of [pyFRI](https://github.com/lbr-stack/pyFRI) </br> - Robotic control theory </br> - Demo implementations |
-| Martin Huber | <a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/26366414?v=4" width="100px;" alt="Martin Huber"/> | - Main developer of [lbr_fri_ros2_stack](lbr_fri_ros2_stack) </br> - Build infrastructure |
-| Tom Vercauteren | <a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/1614505?v=4" width="100px;" alt="Tom Vercauteren"/> | - Funding  </br> - Advisor for software architecture </br> - Integration into vision  |
-| Christos Bergeles | <a href="https://github.com/fepegar"><img src="https://avatars.githubusercontent.com/u/1964044?v=4" width="100px;" alt="Christos Bergeles"/> | - Funding </br> - Advisor for software architecture </br> - Drafting of robotic control |
+| [Christopher Mower](https://www.linkedin.com/in/christopher-mower-2044275a/) | <a href="https://github.com/cmower"><img src="https://avatars.githubusercontent.com/u/8171456?v=4" width="100px;" alt="Christopher Mower"/> | - Main developer of [pyFRI](https://github.com/lbr-stack/pyFRI) </br> - Robotic control theory </br> - Demo implementations |
+| [Martin Huber](https://www.linkedin.com/in/mhubii/) | <a href="https://github.com/mhubii"><img src="https://avatars.githubusercontent.com/u/26366414?v=4" width="100px;" alt="Martin Huber"/> | - Main developer of [lbr_fri_ros2_stack](lbr_fri_ros2_stack) </br> - Build infrastructure |
+| [Tom Vercauteren](https://www.linkedin.com/in/tomvercauteren/) | <a href="https://github.com/tvercaut"><img src="https://avatars.githubusercontent.com/u/1614505?v=4" width="100px;" alt="Tom Vercauteren"/> | - Funding  </br> - Advisor for software architecture </br> - Integration into vision  |
+| [Christos Bergeles](https://www.linkedin.com/in/christosbergeles/) | <a href="https://github.com/cbergeles"><img src="https://avatars.githubusercontent.com/u/1964044?v=4" width="100px;" alt="Christos Bergeles"/> | - Funding </br> - Advisor for software architecture </br> - Drafting of robotic control |
 
 We hope to reach more open source contributors in the future!
 
