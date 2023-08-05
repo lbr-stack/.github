@@ -1,11 +1,11 @@
 # 🚀 LBR-Stack
-The LBR-Stack provides community contributed extensions to KUKA's Fast Robot Interface (FRI) for accelerated research and deployment.
+The `LBR-Stack` provides community contributed extensions to KUKA's Fast Robot Interface (`FRI`) for accelerated research and deployment.
 
 4 core packages are provided:
 
-- [fri](https://github.com/lbr-stack/fri): CMake support for KUKA's FRI.
-- [pyFRI](https://github.com/lbr-stack/pyFRI): Python bindings for KUKA's FRI for rapid prototyping!
-- [fri_vendor](https://github.com/lbr-stack/fri_vendor): Integration of `fri` into the ROS 2 build system.
+- [fri](https://github.com/lbr-stack/fri): CMake support for KUKA's `FRI`.
+- [pyFRI](https://github.com/lbr-stack/pyFRI): Python bindings for KUKA's `FRI` for rapid prototyping!
+- [fri_vendor](https://github.com/lbr-stack/fri_vendor): Integration of `FRI` into the ROS 2 build system.
 - [lbr_fri_ros2_stack](lbr_fri_ros2_stack): ROS 2 support for the KUKA LBRs: `ros2_control`, `MoveIt 2`, `Gazebo`, demos and much more!
 
 The current core contributors are:
