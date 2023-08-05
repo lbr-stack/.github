@@ -6,14 +6,14 @@ The `LBR-Stack` provides community contributed extensions to KUKA's Fast Robot I
 - [fri](https://github.com/lbr-stack/fri): CMake support for KUKA's `FRI`.
 - [pyFRI](https://github.com/lbr-stack/pyFRI): Python bindings for KUKA's `FRI` for rapid prototyping!
 - [fri_vendor](https://github.com/lbr-stack/fri_vendor): Integration of `FRI` into the ROS 2 build system.
-- [lbr_fri_ros2_stack](lbr_fri_ros2_stack): ROS 2 support for the KUKA LBRs: `ros2_control`, `MoveIt 2`, `Gazebo`, demos and much more!
+- [lbr_fri_ros2_stack](https://github.com/lbr-stack/lbr_fri_ros2_stack): ROS 2 support for the KUKA LBRs: `ros2_control`, `MoveIt 2`, `Gazebo`, demos and much more!
 
 The current core contributors are:
 
 | Name | GitHub | Contributions |
 | ---- | ------ | ------------- |
 | [Christopher Mower](https://www.linkedin.com/in/christopher-mower-2044275a/) | <a href="https://github.com/cmower"><img src="https://avatars.githubusercontent.com/u/8171456?v=4" width="100px;" alt="Christopher Mower"/> | - Main developer of [pyFRI](https://github.com/lbr-stack/pyFRI) </br> - Robotic control theory </br> - Build infrastructure and demos |
-| [Martin Huber](https://www.linkedin.com/in/mhubii/) | <a href="https://github.com/mhubii"><img src="https://avatars.githubusercontent.com/u/26366414?v=4" width="100px;" alt="Martin Huber"/> | - Main developer of [lbr_fri_ros2_stack](lbr_fri_ros2_stack) </br> - Build infrastructure |
+| [Martin Huber](https://www.linkedin.com/in/mhubii/) | <a href="https://github.com/mhubii"><img src="https://avatars.githubusercontent.com/u/26366414?v=4" width="100px;" alt="Martin Huber"/> | - Main developer of [lbr_fri_ros2_stack](https://github.com/lbr-stack/lbr_fri_ros2_stack) </br> - Build infrastructure |
 | [Tom Vercauteren](https://www.linkedin.com/in/tomvercauteren/) | <a href="https://github.com/tvercaut"><img src="https://avatars.githubusercontent.com/u/1614505?v=4" width="100px;" alt="Tom Vercauteren"/> | - Funding  </br> - Advisor for software architecture </br> - Integration into vision  |
 | [Christos Bergeles](https://www.linkedin.com/in/christosbergeles/) | <a href="https://github.com/cbergeles"><img src="https://avatars.githubusercontent.com/u/1964044?v=4" width="100px;" alt="Christos Bergeles"/> | - Funding </br> - Advisor for software architecture </br> - Drafting of robotic control |
 
