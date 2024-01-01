@@ -1,4 +1,4 @@
-# 🚀 LBR-Stack
+# LBR-Stack
 The `LBR-Stack` provides community contributed extensions to KUKA's Fast Robot Interface (`FRI`) for accelerated research and deployment.
 
 4 core packages are provided:
